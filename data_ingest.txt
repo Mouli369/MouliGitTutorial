@@ -7,3 +7,5 @@ Bug is fixed.
 I'm fixin this bug - 2
 
 Hehe, I'm learning too.
+
+Bug fixed (stashing paused).
